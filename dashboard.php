@@ -7,6 +7,9 @@
   <title>Webolys - Dashboard | Agence Web</title>
 </head>
 <body>
-  
+  <?php
+    require_once("component/check.php");
+    require_once("component/database.php");
+  ?>
 </body>
 </html>
